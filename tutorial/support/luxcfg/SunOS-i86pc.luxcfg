@@ -1,0 +1,7 @@
+[config var=MAKE=gmake]
+[config var=SKIP_SUNOS=true]
+[config var=USE_VALGRIND=false]
+[config multiplier=5000]
+[config shell_cmd=/usr/xpg4/bin/sh]
+[config shell_args=--noediting]
+[config shell_args=-i]
